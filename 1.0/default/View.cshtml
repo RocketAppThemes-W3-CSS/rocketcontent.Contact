@@ -28,7 +28,5 @@
     hbsDict.Add("resxlist", RenderRazorUtils.GetResxPaths(Processdata));
 }
 
-<h1>@articleData.Organisation @articleData.AdminAppThemeFolder @articleData.AdminAppThemeFolderVersion</h1>
-
 @RenderHandleBarsRC(hbsDict, appTheme, "view.hbs", remoteModule.ModuleRef)
 
