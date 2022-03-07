@@ -147,4 +147,7 @@
   <data name="extrainfos.Text" xml:space="preserve">
     <value>Informations supplémentaires</value>
   </data>
+  <data name="contact.Text" xml:space="preserve">
+    <value>Contact</value>
+  </data>
 </root>
